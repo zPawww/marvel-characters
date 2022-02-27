@@ -1,0 +1,22 @@
+img.img-thumbnail {
+    width: 80%;
+    height: 80%;
+  }
+
+#buscador{
+  border: none !important;
+  outline: none !important;
+  border-radius: 10px;
+  position: relative;
+  left: 400px;
+}
+#buscador::placeholder{
+  padding: 5px;
+}
+
+#buscar{
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 17;
+}
